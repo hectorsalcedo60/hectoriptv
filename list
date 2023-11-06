@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+s#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="JOVENES Y ADULTOS",Rocket Channel
 https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
