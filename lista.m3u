@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full HD
 https://mitv.zplay.cl/Ztv/index.m3u8
-#EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Telenovelas 
-http://181.176.153.106:8090/play/a0ox/index.m3u8
+#EXTINF:-1 tvg-name="Z Anime" tvg-id="ZAnime" tvg-logo="Hola TVg" group-title="JOVENES Y ADULTOS",Hola TV
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 #EXTINF:-1 tvg-name="Z Retro" tvg-id="ZRetro" tvg-logo="https://i.ibb.co/F7FsZjS/Logo-Canal-ZTV-Anime.png" group-title="JOVENES Y ADULTOS",Z Retro HD
 https://mitv.zplay.cl/ZRetro/index.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="JOVENES Y ADULTOS",Toonizaki HD
