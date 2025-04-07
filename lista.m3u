@@ -50,7 +50,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0214
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="Locales", Telefe Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0379
+https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1744085207~acl=%2f*~data=hdntl~hmac=784a95b51246eeac6f4e099e91280483afab98540678180fc3e4f342c4736655/master0.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Locales", TV Publica Pampeana
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
