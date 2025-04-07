@@ -13,7 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
-
+https://is-tucuman.cdn.rcs.net.ar/mnp/zoomoo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -24,7 +24,8 @@ http://181.78.27.128:8000/play/a04t/index.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Locales", ZooMoo
+https://is-tucuman.cdn.rcs.net.ar/mnp/zoomoo_hls/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="Locales", El Siete Mendoza
