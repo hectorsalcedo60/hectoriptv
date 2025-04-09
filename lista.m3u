@@ -119,7 +119,7 @@ http://181.176.153.106:8090/play/a0ll/index.m3u8
 http://181.176.153.106:8090/play/a0ox/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
-http://45.71.252.16:8000/play/a09q/index.m3u8
+http://38.252.158.1:8000/play/a034
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Entretenimiento", Discovery H&H
 http://181.13.173.86:8000/play/a07h/index.m3u8
