@@ -1,20 +1,41 @@
 
 
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz"
-#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-name="Descubriendo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG_1731016887158.png" group-title="Pluto TV" tvg-chno="1", Descubriendo Pluto TV
-https://stitcher.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
+http://181.198.105.69:8111/playlist.m3u8
+181.198.105.69
+Enviaste
+pasame la pagina oficial de iptv 
+Greentv
+Jair9, [11/7/2025 05:09]
+TOONCAST
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/42b9359f-8cd0-4214-b8ec-c2ceccbe3105.m3u8
 
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
+Jair9, [11/7/2025 05:10]
+BABY TV
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/535708b8-9845-4fb9-b451-27698dedc12d.m3u8
 
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1733158185443.png" group-title="Películas" tvg-chno="21", Pluto TV Cine Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
+Jair9, [11/7/2025 05:11]
+CARTOON NETWERK
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/05208f2f-6cd7-4a15-8e81-500e2a4eceb3.m3u8
 
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas" tvg-chno="24", Estrellas de Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
+Jair9, [11/7/2025 05:11]
+CARTOONITO
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/e4df415d-3f55-40bc-8ab3-6aef8f366a81.m3u8
 
-#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Películas" tvg-chno="27", Adrenalina Pura TV
-https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
+Jair9, [11/7/2025 05:12]
+DISCOVERY KIDS
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u8
+
+Jair9, [11/7/2025 05:13]
+DISNEY CHANNEL
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/2f27ee03-c5b7-4a7b-8aa1-6eff0318e266.m3u8
+
+Jair9, [11/7/2025 05:13]
+DISNEY JUNIOR
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7809b88a-2c44-4d97-81e1-ba3f8332473e.m3u8
+
+Jair9, [11/7/2025 05:16]
+LAS ESTRELLAS
+https://tvportalmx.com:3604/live/lasestrellaslive.m3u8Make=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
 
 #EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/logo7_2-20250317152757.png" group-title="Películas" tvg-chno="33", Pluto TV Cine Comedia
 https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
